@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World!";
+echo "Hello SE Health, This test web server is running on Azure WebApp";
